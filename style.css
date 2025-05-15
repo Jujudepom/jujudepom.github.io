@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-weight: 300;
+    background-color:#FFFFFF; 
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.logo {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 100px; 
+    height: auto;
+  }
+.container {
+    background-color: #3d2770;
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    text-align: center;
+
+}
+
+h2 {
+    color: #FFFFFF; 
+    font-size: 24px;
+}
+
+form {
+    display
+ } 
+ 
